@@ -8,6 +8,7 @@
 #include <lib/base/eenv.h>
 #include <lib/base/eerror.h>
 #include <lib/base/estring.h>
+#include <xmlccwrap/xmlccwrap.h>
 #include <lib/base/nconfig.h>
 #include <dvbsi++/service_description_section.h>
 #include <dvbsi++/descriptor_tag.h>
